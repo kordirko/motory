@@ -8,7 +8,7 @@ W projekcie jest już zapisany ściągnięty plik z danymi: `scrapy_motory/motor
 
 ***
 
-Szczegóły analizy danych i doboru modelu znajdziesz w pliku: `rzeczoznawca_motocyklowy.ipynb`
+Szczegóły analizy danych i doboru modelu znajdziesz w pliku: [rzeczoznawca_motocyklowy.ipynb](rzeczoznawca_motocyklowy.ipynb)
 
 Znajdziesz tam między innymi:
 * implementację przeliczania cen na PLN wg kursów publikowanych przez NBP (pobieranych przez Rest API)
