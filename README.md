@@ -18,4 +18,4 @@ Znajdziesz tam między innymi:
 
 ***
 
-Zwycięskim modelem na końcu analizy okazał się [RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+**Zwycięskim modelem na końcu analizy okazał się [RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)**
