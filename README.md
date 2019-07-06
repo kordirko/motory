@@ -3,8 +3,8 @@
 Celem projektu jest zastosowanie modeli regresji do szacowania (przewidywania) cen
 motocykli o podanych parametrach i cechach. W projekcie dokonano ewaluacji różnych modeli regresji i dobrano model optymalny. 
 ***
-Dane użyte do budowy modelu zostały pobrane ze stron znanego portalu aukcyjnego, do ściągnięcia danych ofrt użyto pakietu [scrapy](https://scrapy.org/). 
-W projekcie jest już zaisany ściągnięty plik danych: `scrapy_motory/motory-2019-04-19.json` - ten plik został użyty do analizy i budowania modeli regresji. 
+Dane użyte do budowy modelu zostały pobrane ze stron znanego portalu aukcyjnego, do ściągnięcia danych ofert użyty został pakiet [scrapy](https://scrapy.org/). 
+W projekcie jest już zapisany ściągnięty plik z danymi: `scrapy_motory/motory-2019-04-19.json` - ten plik został użyty do analizy i budowania modeli regresji. 
 
 ***
 
